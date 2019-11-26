@@ -1,4 +1,7 @@
 import React from 'react';
+import PropTypes from 'prop-types';
+import { Panel, Row, Col, Tabs, Tab, FormControl } from 'react-bootstrap';
+
 import logo from './logo.svg';
 import './App.css';
 
